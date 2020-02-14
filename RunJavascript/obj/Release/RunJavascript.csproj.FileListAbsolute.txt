@@ -1,0 +1,17 @@
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\ClearScriptV8-32.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\ClearScriptV8-64.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-libcpp-ia32.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-base-ia32.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-ia32.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-libcpp-x64.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-base-x64.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\v8-x64.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\RunJavascript.exe.config
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\RunJavascript.exe
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\RunJavascript.pdb
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\ClearScript.dll
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\bin\Release\ClearScript.xml
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\obj\Release\RunJavascript.csprojAssemblyReference.cache
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\obj\Release\RunJavascript.csproj.CopyComplete
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\obj\Release\RunJavascript.exe
+D:\Workspace\Visual Studio 2019\RunJavascript\RunJavascript\obj\Release\RunJavascript.pdb
