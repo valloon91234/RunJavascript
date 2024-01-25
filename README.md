@@ -1,3 +1,3 @@
 # RunJavascript
  
-Run Javascript ES 8+ using C#.
+Run Javascript ES8+ using C#.
